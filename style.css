@@ -1,0 +1,61 @@
+
+p{
+	color: #777777;
+}
+
+h1, h2, h3, h4{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+#myname {
+	background-color: #4aaaa5;
+	color: white;
+	margin-bottom: 0;
+}
+
+#lightblue{
+	color: #4aaaa5;
+}
+
+.card{
+	margin-top: 20px;
+	border-color: black;
+}
+
+section{
+	background-image: url("Assets/cork.png");
+}
+
+.col-md-8{
+	margin-top: 20px;
+}
+
+footer{
+
+	background-color: #666666;
+	text-align: center;
+	padding: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: white
+}
+
+#placeholder1{
+	width: 200px
+}
+
+#placeholder2{
+	width: 200px
+
+}
+#placeholder3{
+	width: 200px
+
+}
+#placeholder4{
+	width: 200px
+
+}
+#placeholder5{
+	width: 200px
+}
