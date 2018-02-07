@@ -41,21 +41,22 @@ footer{
 }
 
 #placeholder1{
-	width: 200px
+	width: 200px;
 }
 
 #placeholder2{
-	width: 200px
-
+	width: 200px;
 }
 #placeholder3{
-	width: 200px
-
+	width: 200px;
 }
 #placeholder4{
-	width: 200px
-
+	width: 200px;
 }
 #placeholder5{
-	width: 200px
+	width: 200px;
+}
+
+.col-md-8{
+	padding-left: 20px;
 }
